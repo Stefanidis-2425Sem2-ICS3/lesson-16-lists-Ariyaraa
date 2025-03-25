@@ -1,7 +1,7 @@
 # Name: Akindu Ariyratna
 # Title: 
 # Date: March 19th 2025
-# Description: This program prints 0 to 100 numbers
+# Description: This program prints 100 numbers and finds the average
 
 import random 
 Numbers = []
